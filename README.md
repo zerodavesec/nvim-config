@@ -100,16 +100,6 @@ _If you are on Linux, use your distro's de-facto package manager or brew if inst
 
 ---
 
-## Screenshots
-
-![Image](https://github.com/user-attachments/assets/10c32359-a862-4a19-84f9-efb3e0aefe30)
-![Image](https://github.com/user-attachments/assets/7ad3706f-a838-40fa-8350-372c70910421)
-![Image](https://github.com/user-attachments/assets/de0c41e1-4215-4757-9fa2-9edabf056eef)
-![Image](https://github.com/user-attachments/assets/066c1cdd-a270-4dbf-9ca6-f5fa31e7355d)
-![Image](https://github.com/user-attachments/assets/8607165b-dbe3-4676-a8e2-ae3759fb486e)
-
----
-
 ## 📃 License
 
 This config is licensed under the [MIT License](LICENSE).
